@@ -136,8 +136,6 @@ void main(void) {
     set_pin(status);
     while(1) {
         __delay_ms(50);
-        __delay_ms(50);
-        __delay_ms(50);
     }
     return;
 }
